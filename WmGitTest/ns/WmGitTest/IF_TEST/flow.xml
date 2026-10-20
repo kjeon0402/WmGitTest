@@ -36,4 +36,8 @@
 <INVOKE TIMEOUT="" SERVICE="pub.math:multiplyFloatList" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
+</MAP>
 </FLOW>
